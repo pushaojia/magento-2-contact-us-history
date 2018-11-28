@@ -1,11 +1,11 @@
 # ContactUsHistory
 
+IMPORTANT
+THIS IS A TEST MODULE FOR PRACTICE AND DISCUSSIONS
+
 **ContactUsHistory**
 
 Module saving data from "Contact Us" form to db and show it via grid at admin panel.
-
-Also module provides functionality for reply on customer note
-from admin panel and admin notification on new note placing.
 
 Module compatible with magento 2.2 and will be with magento 2.3.
 
